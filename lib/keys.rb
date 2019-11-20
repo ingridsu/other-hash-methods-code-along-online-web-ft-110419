@@ -1,6 +1,5 @@
 require 'pry'
 
-groceries.values.flatten.min
   groceries = {
   dairy: ["milk", "yogurt", "cheese"],
   vegetable: ["carrots", "broccoli", "cucumbers"],
